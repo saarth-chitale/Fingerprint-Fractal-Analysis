@@ -1,5 +1,8 @@
 program main
 
+! Written by S. Chitale for fingerprint analysis purpose
+! Feb 26, 2023
+
    use :: iso_fortran_env !, only : FILE_STORAGE_SIZE
    use constants
    use binarize
