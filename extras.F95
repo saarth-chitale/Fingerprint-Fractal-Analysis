@@ -57,35 +57,3 @@ subroutine filesize(filename,nchars,ierr)
         close(unit)
   
      end subroutine
-
-    ! else if(img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) &
-!     + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) == cat1) then
-!       call store_write(i,x,y,cat1)
-
-! else if(img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) &
-!     + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) == cat2) then
-!         call store_write(i,x,y,cat2)
-
-! else if(img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) &
-!     + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) == cat3) then
-!         call store_write(i,x,y,cat3)
-
-! else if(img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) &
-!     + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) == cat4) then
-!         call store_write(i,x,y,cat4)
-
-! else if(img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) &
-!     + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) == cat5) then
-!         call store_write(i,x,y,cat5)
-
-! else if(img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) &
-!     + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) == cat6) then
-!         call store_write(i,x,y,cat6)
-
-! else if(img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) &
-!     + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) == cat7) then
-!         call store_write(i,x,y,cat7)
-
-! else if(img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) &
-!     + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) + img_in(a1(1),a1(2)) == cat8) then
-!         call store_write(i,x,y,cat8)
