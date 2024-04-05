@@ -1,4 +1,6 @@
 module constants
+! Written by S. Chitale for fingerprint analysis purpose
+! Feb 26, 2023
 
     USE ISO_FORTRAN_ENV
  
